@@ -53,6 +53,7 @@ main {
 
 a {
   color: inherit;
+  text-decoration: inherit;
 }
 
 .player-cards {
